@@ -2,7 +2,7 @@ import React from "react";
 import home1 from "../img/home1.png";
 const AboutSection = () => {
   return (
-    <div>
+    <div className="about">
       <div className="description">
         <div className="title">
           <div className="hide">
